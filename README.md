@@ -6,5 +6,6 @@ The goal is to predict whether a mobile ad will be clicked. The dataset is from 
 https://www.kaggle.com/c/avazu-ctr-prediction
 
 Code 1 is to sample the original training dataset to a smaller random sample for model building.
+
 Code 2 is the main bulk of code to build models and make predictions.
 
